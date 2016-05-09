@@ -1,0 +1,15 @@
+Name = "MDErgo1";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+U"ESC" : U"ESCAPE";
+U"FUNCTION1" : U"M";
+U"DELETE" : U"ENTER";
+U"BACKSPACE" : U"SPACE";
+U"LGUI" : U"H";
+
